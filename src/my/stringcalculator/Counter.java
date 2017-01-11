@@ -10,6 +10,7 @@ public class Counter {
 		this.splitter = splitter;
 		this.stringOfIntegers = stringOfIntegers;
 		manipulate();
+		
 	}
 	
 	private void manipulate() {
