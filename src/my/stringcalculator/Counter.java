@@ -11,6 +11,7 @@ public class Counter {
 		this.stringOfIntegers = stringOfIntegers;
 		manipulate();
 		
+		
 	}
 	
 	private void manipulate() {
